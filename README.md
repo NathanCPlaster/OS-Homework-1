@@ -33,8 +33,8 @@ it is VERY IMPORTANT you run the last command as stated.
 test@test-VB:~/Location/Project$
 Producer Ready to create 5 items.
 Item produced, there are now 1 item(s) in the table.
-Item produced, there are now 2 item(s) in the table.
-Item consumed, 1 remaining.
+Item consumed, 0 remaining.
+Item produced, there are now 1 item(s) in the table.
 Item consumed, 0 remaining.
 Item produced, there are now 1 item(s) in the table.
 Item consumed, 0 remaining.
