@@ -4,7 +4,6 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -12,36 +11,39 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
-## Description
-
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
-
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Linux Ubuntu
+- VsCode
 
 [Back To The Top](#read-me-template)
 
 ---
 
+
+#### Prerequisites
+gcc and pthread library
+Compile on Ubuntu/Linux
+C/C++ Extension
+
 ## How To Use
-
-#### Installation
-
-
-
-#### API Reference
-
+After cloning the repository and ensuring you have met the prerequisites
+run these commands in order:
 ```html
-    <p>dummy code</p>
+    gcc producer.c -pthread -lrt -o producer
+    gcc consumer.c -pthread -lrt -o consumer
+    ./consumer & ./producer &
 ```
+it is VERY IMPORTANT you run the last command as stated.
+
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
 [Back To The Top](#read-me-template)
-
 ---
-
+This is a list of online material and provided material I used to analyze and or edit my code with:
+Synchronization Lab  : http://www.cse.cuhk.edu.hk/~ericlo/teaching/os/lab/7-IPC2/index.html
+Linux Manual Pages for SEM Command Descriptions : https://man7.org/linux/man-pages/index.html
+Additional material provided to the class by Professor Guan, Qiang at Kent State University
