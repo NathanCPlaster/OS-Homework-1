@@ -40,4 +40,3 @@ This is a list of online material and provided material I used to analyze and or
 - Linux Manual Pages for SEM Command Descriptions : https://man7.org/linux/man-pages/index.html
 
 - Additional material provided to the class by Professor Guan, Qiang at Kent State University
-
