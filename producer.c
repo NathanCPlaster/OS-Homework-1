@@ -42,7 +42,7 @@ int main()
 
   
 
-    printf("\nProducer ready to create %d items.\n", loop);
+    printf("\nProducer ready to create %d items.\n", loop-1);
 
         for(int i = 1; i < loop; ++i){
         sem_wait(avail);
