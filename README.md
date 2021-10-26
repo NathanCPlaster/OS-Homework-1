@@ -26,12 +26,7 @@ run these commands in order:
 ```
 it is VERY IMPORTANT you run the last command as stated.
 
-[Back To The Top](#read-me-template)
-
----
-
 ## References
-[Back To The Top](#read-me-template)
 ---
 This is a list of online material and provided material I used to analyze and or edit my code with.
 
