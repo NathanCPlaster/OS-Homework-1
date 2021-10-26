@@ -26,6 +26,26 @@ run these commands in order:
 ```
 it is VERY IMPORTANT you run the last command as stated.
 
+## Expected Output
+```
+[] ####
+[] ####
+test@test-VB:~/Location/Project$
+Producer Ready to create 5 items.
+Item produced, there are now 1 item(s) in the table.
+Item produced, there are now 2 item(s) in the table.
+Item consumed, 1 remaining.
+Item consumed, 0 remaining.
+Item produced, there are now 1 item(s) in the table.
+Item consumed, 0 remaining.
+Item produced, there are now 1 item(s) in the table.
+Item consumed, 0 remaining.
+Item produced, there are now 1 item(s) in the table.
+Producer cleaned up!
+Item consumed, 0 remaining.
+Consumer went home!
+```
+
 ## References
 ---
 This is a list of online material and provided material I used to analyze and or edit my code with.
