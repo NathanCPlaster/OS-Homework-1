@@ -3,14 +3,6 @@
 
 ---
 
-### Table of Contents
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-
----
-
 #### Technologies
 
 - Linux Ubuntu
@@ -44,6 +36,9 @@ it is VERY IMPORTANT you run the last command as stated.
 [Back To The Top](#read-me-template)
 ---
 This is a list of online material and provided material I used to analyze and or edit my code with:
+---
 Synchronization Lab  : http://www.cse.cuhk.edu.hk/~ericlo/teaching/os/lab/7-IPC2/index.html
+---
 Linux Manual Pages for SEM Command Descriptions : https://man7.org/linux/man-pages/index.html
+---
 Additional material provided to the class by Professor Guan, Qiang at Kent State University
