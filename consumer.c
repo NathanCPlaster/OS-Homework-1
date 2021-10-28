@@ -34,7 +34,7 @@ int main(){
     for(int i=1; i<loop; ++i){
         sem_wait(fill);
 
-        int ms = rand() % 2+i;
+        int ms = rand() % 3+i;
         sleep(ms);
 
         sem_wait(mutex);
