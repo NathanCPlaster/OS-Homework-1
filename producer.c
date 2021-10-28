@@ -47,7 +47,7 @@ int main()
         for(int i = 1; i < loop; ++i){
         sem_wait(avail);
 
-        int ms=rand() % 2+i;
+        int ms=rand() % 1+i;
         sleep(ms);
         sem_wait(mutex);
         ++(* table);
